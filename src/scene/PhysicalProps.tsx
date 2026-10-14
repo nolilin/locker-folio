@@ -830,7 +830,7 @@ export function GuitarModel() {
  * contact shadow on the locker door instead of intersecting the vent slats.
  */
 export function PosterCardModel({
-  url = '/assets/obj/posterwall.webp',
+  url = '/assets/obj/candid photo',
 }: {
   url?: string
 }) {

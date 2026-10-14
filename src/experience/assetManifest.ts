@@ -175,7 +175,7 @@ function lazyAsset(
  * 显示 100%，实际上却是在等待场景根本不会用到的旧图片。
  */
 const HERO_PROPS: AssetEntry[] = [
-  prop('hero.posterwall', '/assets/obj/posterwall.webp', 83900, '2e4607b3', true),
+  prop('hero.posterwall', '/assets/obj/candid photo', 83900, '2e4607b3', true),
   prop('hero.findaword', '/assets/obj/findaword2.webp', 30894, '193897a8', true),
   prop('hero.door4.polaroids', '/assets/obj2/polaroids.webp', 65492, 'df8d6564', true),
 ]

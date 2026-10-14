@@ -94,7 +94,7 @@ const MEMBERS = [
   { url: '/assets/obj2/stk10.webp', maxW: 233, why: '门宽 0.20（待场景层排位）' },
   { url: '/assets/obj2/stk11.webp', maxW: 198, why: '门宽 0.17（待场景层排位）' },
   // ── 门 1 / 门 4 外表面：全程关着，只在落位帧的尺度上出现 ──
-  { url: '/assets/obj/posterwall.webp', maxW: 322, why: '门宽 0.56 × 1.6 余量' },
+  { url: '/assets/obj/candid photo', maxW: 322, why: '门宽 0.56 × 1.6 余量' },
   { url: '/assets/obj/trayA.webp', maxW: 230, why: '门宽 0.40 × 1.6 余量' },
   { url: '/assets/obj/trayB.webp', maxW: 230, why: '门宽 0.40 × 1.6 余量' },
   { url: '/assets/obj2/polaroids.webp', maxW: 379, why: '门宽 0.66 × 1.6 余量' },
